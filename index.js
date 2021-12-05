@@ -1,6 +1,6 @@
-// Script by Aju
-// AJU 𝚂𝙸𝚁 | 𝙳𝙾𝙽'𝚃 𝙲𝙷𝙰𝙽𝙶𝙴 𝙲𝚁𝙴𝙳𝙸𝚃𝚂🙂
-// ©Aju Bot 
+// Script by VenomCyberRPG
+// OFD-BOT | 𝙳𝙾𝙽'𝚃 𝙲𝙷𝙰𝙽𝙶𝙴 𝙲𝚁𝙴𝙳𝙸𝚃𝚂🙂
+// ©OFD 
 const {
   WAConnection: _WAConnection,
   MessageType,
@@ -134,8 +134,8 @@ numbernye = '0'
 autoketik = false;
 prefixStatus = true;
 targetpc = "917994873071"; 
-owner = "917994873071"; 
-fakeyoi = "AJU"; 
+owner = "49202271797600"; 
+fakeyoi = "OFD-BOT"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
